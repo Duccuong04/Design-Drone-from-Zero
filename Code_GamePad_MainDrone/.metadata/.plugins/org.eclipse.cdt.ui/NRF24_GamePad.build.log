@@ -1,0 +1,10 @@
+15:01:26 **** Incremental Build of configuration Debug for project NRF24_GamePad ****
+make -j12 all 
+arm-none-eabi-size  NRF24_GamePad.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8916	     20	   1692	  10628	   2984	NRF24_GamePad.elf
+Finished building: default.size.stdout
+ 
+
+15:01:26 Build Finished. 0 errors, 0 warnings. (took 200ms)
+

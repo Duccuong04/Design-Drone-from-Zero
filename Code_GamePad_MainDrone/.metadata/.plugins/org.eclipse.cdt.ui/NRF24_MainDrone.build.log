@@ -1,0 +1,10 @@
+17:41:16 **** Build of configuration Debug for project NRF24_MainDrone ****
+make -j12 all 
+arm-none-eabi-size  NRF24_MainDrone.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14264	     20	   1764	  16048	   3eb0	NRF24_MainDrone.elf
+Finished building: default.size.stdout
+ 
+
+17:41:16 Build Finished. 0 errors, 0 warnings. (took 189ms)
+

@@ -1,0 +1,9 @@
+../Core/Inc/dwt_stm32_delay.h:32:22:void DWT_Delay_us(uint32_t)	2
+../Core/Src/main.cpp:92:5:int main()	9
+../Core/Src/main.cpp:214:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:261:13:void MX_I2C1_Init()	2
+../Core/Src/main.cpp:295:13:void MX_USART1_UART_Init()	2
+../Core/Src/main.cpp:328:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:390:6:void Error_Handler()	1
+../Core/Src/main.cpp:399:1:void __static_initialization_and_destruction_0()	1
+../Core/Src/main.cpp:399:1:cpp)	1

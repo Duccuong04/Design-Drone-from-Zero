@@ -1,0 +1,10 @@
+13:07:14 **** Incremental Build of configuration Debug for project 6Button_GamePad ****
+make -j12 all 
+arm-none-eabi-size  6Button_GamePad.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4776	     12	   1572	   6360	   18d8	6Button_GamePad.elf
+Finished building: default.size.stdout
+ 
+
+13:07:15 Build Finished. 0 errors, 0 warnings. (took 216ms)
+

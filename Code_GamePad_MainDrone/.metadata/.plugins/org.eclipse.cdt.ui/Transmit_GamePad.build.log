@@ -1,0 +1,10 @@
+12:05:44 **** Incremental Build of configuration Debug for project Transmit_GamePad ****
+make -j12 all 
+arm-none-eabi-size  Transmit_GamePad.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14324	     20	   1884	  16228	   3f64	Transmit_GamePad.elf
+Finished building: default.size.stdout
+ 
+
+12:05:45 Build Finished. 0 errors, 0 warnings. (took 188ms)
+

@@ -1,0 +1,4 @@
+../Core/Src/flash.c:29:6:MyFlash_EraseSector	1
+../Core/Src/flash.c:38:6:MyFlash_SetSectorAddrs	1
+../Core/Src/flash.c:45:6:MyFlash_WriteN	8
+../Core/Src/flash.c:85:6:MyFlash_ReadN	8
