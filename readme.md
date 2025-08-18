@@ -2,9 +2,13 @@
 
 Tài liệu này ghi lại các bước thiết kế mạch in cho bo mạch chính của drone, dùng vi điều khiển STM32F407VET6, tích hợp các khối điều khiển động cơ, cảm biến, truyền thông và giao tiếp.
 
-![alt text](maindrone.png)
+![alt text](maindrone-1.png)
 
-![alt text](mainpcb2.png) ![alt text](mainpcb3.png) ![alt text](mainpcb1.png)
+
+
+![alt text](mainpcb1.png)
+
+![alt text](mainpcb3.png) ![alt text](mainpcb2.png)
 
 ## 🔧 Các bước thiết kế
 
@@ -88,7 +92,9 @@ Tài liệu này ghi lại các bước thiết kế mạch in cho bo mạch ch�
 Tài liệu này trình bày quy trình thiết kế một mạch in (PCB) cho tay cầm điều khiển drone, dựa trên yêu cầu kỹ thuật và tài liệu gốc (`Machtaycam.pdf`).
 
 ![alt text](gamepadsche.png)
-![alt text](gamepapcb2.png) ![alt text](gamepadpcb1.png) ![alt text](gamepadpcb4.png)
+![alt text](gamepadpcb4.png)
+
+![alt text](gamepapcb2.png) ![alt text](gamepadpcb1.png)
 
 ## 🔧 Các bước thiết kế
 
