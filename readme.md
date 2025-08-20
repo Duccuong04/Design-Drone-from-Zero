@@ -1,4 +1,4 @@
-# Main Drone Board – Thiết kế mạch điều khiển trung tâm
+# Main Drone Board – Thiết kế mạch PCB điều khiển trung tâm
 
 Tài liệu này ghi lại các bước thiết kế mạch in cho bo mạch chính của drone, dùng vi điều khiển STM32F407VET6, tích hợp các khối điều khiển động cơ, cảm biến, truyền thông và giao tiếp.
 
@@ -153,3 +153,16 @@ Tài liệu này trình bày quy trình thiết kế một mạch in (PCB) cho t
 - Email: duccuonggg04@gmail.com
 - Ngày thiết kế: 24/06/2025
 
+# Main Drone Board - Hình ảnh mạch thực tế
+
+## 1. Main Drone
+
+![alt text](z6922137817569_1ad8bf5fa4068586a4c39de5e3421297.jpg) ![alt text](z6922137828835_fe1bf6dec23120b3a3239429b7a897dd.jpg)
+
+## 2. Game Pad for Drone
+
+ ![alt text](z6922137874236_3b9cbebd3af3a38df40f38a6773c457e.jpg) ![alt text](z6922137804337_05d0ebcce0dafb99350d64605969bc4b.jpg)
+
+ ## 3. Sau khi hàn linh kiện
+
+ ![alt text](z6922137869297_d0d84cb95e0d53d435ec35e6be3d9960.jpg) ![alt text](z6922137875338_20447226146280d238f10fe665a97b89.jpg)
