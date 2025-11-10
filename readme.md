@@ -25,4 +25,11 @@ Test đáp ứng PID với Input là Gyro và Joystick từ tay cầm:
 
 **https://youtu.be/AUR3ovJpVSY**
 
+Test cân bằng góc pitch/ roll
+
+**https://youtu.be/xqhBPt9eMAI**
+
 Video bay thực tế: 
+
+https://drive.google.com/file/d/147RBULrgK9qIRCBWejau6amRLlQyX-BF/view?usp=sharing
+
