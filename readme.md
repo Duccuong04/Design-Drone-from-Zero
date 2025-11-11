@@ -33,3 +33,7 @@ Video bay thực tế:
 
 https://drive.google.com/file/d/147RBULrgK9qIRCBWejau6amRLlQyX-BF/view?usp=sharing
 
+Nhận xét:
+- Về chức năng: Đã cân bằng được ba góc roll, pitch, yaw sử dụng bộ điều khiển PID. Điều khiển bằng tay cầm đáp ứng tốt
+- Thuật toán đếm người sử dụng Camera Rasphberry Pi cho hiệu quả tốt và chính xác
+- Dữ liệu GPS truyền về ở chế độ tự động bay còn lỗi, sẽ tiếp tục cải thiện sau
